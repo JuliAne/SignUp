@@ -1,0 +1,2 @@
+serviceClass: com.apiomat.signup.client.GreetingService
+path: 733C0883E866985A17A7ECD85D29544B.gwt.rpc

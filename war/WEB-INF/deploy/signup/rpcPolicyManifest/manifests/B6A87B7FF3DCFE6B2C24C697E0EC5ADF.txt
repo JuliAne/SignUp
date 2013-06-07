@@ -1,0 +1,2 @@
+serviceClass: com.apiomat.signup.client.SignUpDataService
+path: 5BA90C035153CF49F1A72C2F4FE7597D.gwt.rpc
